@@ -15,3 +15,6 @@ const menuButton = document.querySelector ('menu-button');
 
 const menuButton;
 // Using your menuButton reference, add a click handler that calls toggleMenu
+menuButton.addEventListener ('click', toggleMenu);
+
+menu.forEach= (menu => new menu(menu));
